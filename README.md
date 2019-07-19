@@ -1,4 +1,3 @@
-# potria
-Tour Operator
+# GlassFrog
 # owner
 MJCR
