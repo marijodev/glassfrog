@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="appengine-api-1.0-sdk-1.9.76">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/exploded-glassfrogUI/WEB-INF/lib/appengine-api-1.0-sdk-1.9.76.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
